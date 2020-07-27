@@ -94,6 +94,7 @@ void welcomescreen()
 
 	}
 
+//Function to create the shapes that the user will select
 int shape()
 {
    int choice;
@@ -278,6 +279,7 @@ void bmcalc()
 
 
 
+//Main function that drives the entire program. You may also increase the waiting time at multiple points in the program as per requirement
 
 void main()
 {
